@@ -3,6 +3,11 @@
 
 let num = 111
 
+Chorus: 66
+Bhajan: 1, 634, 531
+
+Worship: 131 + 30, 197
+
 if (num >=0 && num <= 100) {
     console.log("In range")
 } else {
