@@ -1,0 +1,1 @@
+// Check Square Number: Write an 'if-else' statement to check if a number is a perfect square. Print "Perfect Square" if ture, otherwise "Not a perfect square"
